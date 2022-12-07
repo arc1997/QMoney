@@ -1,0 +1,1 @@
+ curl -X POST  https://api.tiingo.com/tiingo/daily/aapl/prices?startDate=2019-01-02&token=886114343d02aacc3e9322d2833d219d4714c450
